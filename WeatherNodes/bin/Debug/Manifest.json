@@ -1,0 +1,44 @@
+﻿{
+  "PackageFormatVersion": "1.0",
+  "Assembly": "WeatherNodes.dll",
+  "DependentFiles": [
+    "LogicModule.Nodes.Helpers.dll"
+  ],
+  "Version": "1.0.0",
+  "Author": "Dirk Blößl", 
+  "Copyright": "Dirk Blößl",
+  "DeveloperId": "",
+  "PackageId": "C8608BAF-F015-425D-A836-D7C7EE2AF5A6F",
+  "Nodes": [
+    {
+      "Type": "DB.GiraSDK.WeatherNodes.HumidityConverterNode",
+      "Name": {
+        "en": "Humidity-Converter",
+        "de": "Luftfeuchtigkeits-Umrechner"
+      },
+      "IsConverter": false,
+      "Category": "Node",
+      "DefaultIcon": "icons/GenericLogicNode.png",
+      "HelpTooltip": {
+        "en": "",
+        "de": "Rechnet die relativer Luftfeuchtigkeit (%) und Temperatur (°C) in die absolute Luftfeuchtigkeit (g/m3) um."
+      },
+      "HelpFileReference": null
+    },
+    {
+      "Type": "DB.GiraSDK.WeatherNodes.AirPressureConverterNode",
+      "Name": {
+        "en": "AirPressure-Converter",
+        "de": "Luftdruck-Umrechner"
+      },
+      "IsConverter": false,
+      "Category": "Node",
+      "DefaultIcon": "icons/GenericLogicNode.png",
+      "HelpTooltip": {
+        "en": "",
+        "de": "Rechnet den absoluten Luftdruck in einen relativen Luftdruck um."
+      },
+      "HelpFileReference": null
+    }
+  ]
+}
