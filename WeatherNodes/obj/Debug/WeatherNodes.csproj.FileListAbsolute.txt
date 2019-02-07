@@ -1,0 +1,13 @@
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\obj\Debug\WeatherNodes.csprojAssemblyReference.cache
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\obj\Debug\WeatherNodes.csproj.CoreCompileInputs.cache
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\icons\GenericLogicNode.png
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\Manifest.json
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\WeatherNodes.dll
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\WeatherNodes.pdb
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\LogicModule.Nodes.Helpers.dll
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\LogicModule.ObjectModel.dll
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\LogicModule.Nodes.Helpers.xml
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\bin\Debug\LogicModule.ObjectModel.xml
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\obj\Debug\WeatherNodes.csproj.CopyComplete
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\obj\Debug\WeatherNodes.dll
+C:\Users\Dirk Blößl\Desktop\LogicNodesSDK\ExampleSolution\GiraLogicNodes\WeatherNodes\obj\Debug\WeatherNodes.pdb
