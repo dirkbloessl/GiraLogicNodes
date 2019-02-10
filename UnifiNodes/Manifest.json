@@ -1,0 +1,40 @@
+﻿{
+  "PackageFormatVersion": "1.0",
+  "Assembly": "UnifiNodes.dll",
+  "DependentFiles": [
+    "LogicModule.Nodes.Helpers.dll",
+	"Microsoft.Threading.Tasks.dll",
+	"Microsoft.Threading.Tasks.Extensions.Desktop.dll",
+	"Microsoft.Threading.Tasks.Extensions.dll",
+	"Newtonsoft.Json.dll",
+	"System.IO.dll",
+	"System.Net.Http.dll",
+	"System.Net.Http.Extensions.dll",
+	"System.Net.Http.Primitives.dll",
+	"System.Net.Http.WebRequest.dll",
+	"System.Runtime.dll",
+	"System.Threading.Tasks.dll"
+  ],
+  "Version": "1.0.0",
+  "Author": "Dirk Blößl", 
+  "Copyright": "Dirk Blößl",
+  "DeveloperId": "",
+  "PackageId": "8DA7A66F-0ECC-4619-A480-915A9C59F502",
+  "Nodes": [
+    {
+      "Type": "DB.GiraSDK.UnifiNodes.UnifiPresenceDetectionNode",
+      "Name": {
+        "en": "UniFi Presence Detection",
+        "de": "UniFi Anwesenheitserkennung"
+      },
+      "IsConverter": false,
+      "Category": "Node",
+      "DefaultIcon": "icons/GenericLogicNode.png",
+      "HelpTooltip": {
+        "en": "Basic logic node that sets the output to the same value as the input.",
+        "de": "Einfacher Logikbaustein, der den Ausgang auf den gleichen Wert wie den Eingang setzt."
+      },
+      "HelpFileReference": null
+    }
+  ]
+}
